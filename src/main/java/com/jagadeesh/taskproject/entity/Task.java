@@ -1,7 +1,5 @@
 package com.jagadeesh.taskproject.entity;
 
-import com.fasterxml.jackson.core.sym.Name;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
